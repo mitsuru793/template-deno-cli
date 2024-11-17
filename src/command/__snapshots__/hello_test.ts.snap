@@ -1,0 +1,11 @@
+export const snapshot = {};
+
+snapshot[`test stdout 1`] = `
+stdout:
+"start main function
+Mike, Hi!
+end main function
+"
+stderr:
+""
+`;
